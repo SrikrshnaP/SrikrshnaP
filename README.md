@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SrikrshnaP
+- 👋 Hi, I’m Srikrshna Parthasarthy
 - 👀 I’m interested in Cloud Computing, Compiler Design, Machine Learning, Deep Learning, Image Processing, Language Processing, OS the list goes on... 
 - 🌱 I’m curious about Quantum Computing and possibly want to pursue higher education in this field.
 - 📫 How to reach me - email - srikrshna.01.p@gmail.com
